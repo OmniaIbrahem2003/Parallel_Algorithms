@@ -1,0 +1,11 @@
+===========================================
+Run Timestamp: Mon May 12 21:16:54 2025
+Target: 5
+Number of Processes: 1
+
+Process 0: Found at global index 4
+
+Result: Value found at global index 4 by process 0
+Execution Time: 0.002805 seconds
+-------------------------------------------
+

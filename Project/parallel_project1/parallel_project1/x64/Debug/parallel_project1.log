@@ -1,0 +1,8 @@
+﻿  parallel.cpp
+C:\Users\HFCS\source\repos\parallel_project1\parallel_project1\parallel.cpp(76,43): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\HFCS\source\repos\parallel_project1\parallel_project1\parallel.cpp(139,19): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\HFCS\source\repos\parallel_project1\parallel_project1\parallel.cpp(186,23): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\HFCS\source\repos\parallel_project1\parallel_project1\parallel.cpp(270,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\HFCS\source\repos\parallel_project1\parallel_project1\parallel.cpp(337,49): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\HFCS\source\repos\parallel_project1\parallel_project1\parallel.cpp(534,41): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  parallel_project1.vcxproj -> C:\Users\HFCS\source\repos\parallel_project1\x64\Debug\parallel_project1.exe
